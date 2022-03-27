@@ -142,7 +142,8 @@ footer {
     text-align: center;
 }
 
-/* changed from h2 to h4 - check w tutor for validity */
+/* TODO: changed from h2 to h4 - check w tutor for validity */
+/* TODO: ask about missing footer from source img for challenge*/
 footer h4 {
     font-size: 20px;
 }
