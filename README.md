@@ -22,8 +22,7 @@ Policy, contact information, and legal information.
 * [Tests](#tests)
 
 ## Installation
-Click the link to the deployed project to open the refactored Horiseon landing page in your default browser. No further installation is 
-required.
+Click the link to the deployed project to open the refactored Horiseon landing page in your default browser. No further installation is required.
 
 ## Usage
 Provide instructions and examples for use. Include screenshots in the assets/images folder within the repository then link as such:
